@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "SukiAmbientCore",
             url: "https://github.com/naveenkatari/Test-SDK/releases/download/2.3.2/SukiAmbientCore.xcframework.zip",
-            checksum: "cdc058999211ab668d56499d5a04d92c5b1e4fae535f22c3b6eed1cbf9fc1678"
+            checksum: "f738d7e598991bd6242757337ad1bb01fce5a19bc47b7ea11dab155afa26b777"
         )
     ]
 )
